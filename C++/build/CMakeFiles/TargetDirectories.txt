@@ -1,0 +1,3 @@
+/home/pyro/Documents/all-langs/C++/build/CMakeFiles/hello_from_c++.dir
+/home/pyro/Documents/all-langs/C++/build/CMakeFiles/edit_cache.dir
+/home/pyro/Documents/all-langs/C++/build/CMakeFiles/rebuild_cache.dir
